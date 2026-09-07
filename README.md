@@ -16,7 +16,6 @@ The project focuses on creating a visually engaging experience while practicing 
 
 ### 🔗 Live View
 
-👉 **Live Website:**  
 - <a href="https://github.com/SayedIkhtiazAhmed/My-fastest-frontend-build">Live Website</a>
 
 ---
@@ -65,8 +64,9 @@ Key aspects include:
 - Clean navigation structure
 - Call-to-action button
 - Responsive behavior across screen sizes
--  
-<img width="1207" height="985" alt="image" src="https://github.com/user-attachments/assets/2c805f04-b90c-4c09-963c-035af43e6f30" />
+
+<img width="1185" height="592" alt="image" src="https://github.com/user-attachments/assets/fd6ba1bc-4568-465b-8806-0916795c7b23" />
+
 
 ---
 
@@ -84,6 +84,8 @@ I used:
 - Interactive visual feedback
 
 These effects help make the interface feel more polished and engaging.
+
+<img width="1520" height="632" alt="image" src="https://github.com/user-attachments/assets/ad006a01-800d-41e5-af7d-1753c96f68c3" />
 
 ---
 
@@ -217,18 +219,18 @@ Bootstrap's responsive grid system and responsive utilities were used alongside 
 
 ---
 
-### 🚀 My Frontend Journey
+## 🚀 My Frontend Journey
 It's an important milestone in my frontend development journey.
 
-It's my first project built with Bootstrap, and it gave me the opportunity to take the concepts I had learned from HTML and CSS and apply them to a complete responsive website.
+It's my **fastest frontend** project built with Bootstrap, and it gave me the opportunity to take the concepts I had learned from HTML and CSS and apply them to a complete responsive website.
 
 I'm continuing to build more projects, experiment with new technologies, and improve my frontend development skills with every project.
 
-### 👨‍💻 Author
-Sayed Ikhtiaz Ahmed
+## 👨‍💻 Author
+**Sayed Ikhtiaz Ahmed**
 
-Frontend Developer | WordPress Developer
+**Frontend Developer | WordPress Developer**
 
-🔗 GitHub: https://github.com/SayedIkhtiazAhmed 🔗 LinkedIn: www.linkedin.com/in/sayed-ikhtiaz-2024s
+# 🔗 GitHub: https://github.com/SayedIkhtiazAhmed 🔗 LinkedIn: www.linkedin.com/in/sayed-ikhtiaz-2024s
 
 #HTML #CSS #Bootstrap #JavaScript #jQuery #FrontendDevelopment #ResponsiveWebDesign #WebDevelopment
