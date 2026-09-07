@@ -1,0 +1,290 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-image: url("../image/pexels-nicole-avagliano-1132392-2236713.jpg");
+  min-height: 90vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navbar {
+  margin-top: 20px;
+}
+.nav-item {
+  margin-left: 20px;
+  text-transform: uppercase;
+}
+.nav-item button {
+  border: none;
+  background: #ffffff;
+  border: solid 2px #ffffff;
+  padding: 10px 20px;
+  color: #222222;
+  border-radius: 5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.4s all ease-in-out;
+}
+
+.nav-item button:hover {
+  background: transparent;
+  color: #ffffff;
+  border: solid 2px #ffffff;
+}
+.banner {
+  min-height: 80vh;
+}
+.bannertext h3 {
+  color: #ffff;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.bannertext h1 {
+  color: #ffff;
+  margin-top: 20px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 118px;
+  line-height: 70px;
+  letter-spacing: 0%;
+}
+.bannertext p {
+  color: #ffff;
+  margin-top: 30px;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.bannertext button {
+  border: 2px solid #ffffff;
+  background: #ffffff;
+  padding: 10px 20px;
+  color: #222222;
+  border-radius: 5px;
+  text-transform: capitalize;
+  margin-top: 20px;
+  transition: 0.4s all ease-in-out;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.bannertext button:hover {
+  background: transparent;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+}
+.Servicetext span {
+  background-color: yellow;
+  height: 3px;
+  width: 10%;
+  align-items: center;
+  display: block;
+  margin-left: 45%;
+  margin-top: 30px;
+}
+.Services h1 {
+  text-align: center;
+  margin-top: 50px;
+  font-weight: 500;
+  font-size: 48px;
+}
+.Servicesimg img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+.Servicesimg h3 {
+  margin-top: 30px;
+}
+.Servicesimg p {
+  margin-top: 30px;
+}
+.Jane-Miller {
+  background-color: rgb(233, 211, 211);
+  margin-top: 50px;
+}
+.Jane-Miller i {
+  margin-top: 50px;
+  font-size: 48px;
+}
+.Jane-Miller h3 {
+  margin-top: 30px;
+}
+.Jane-Miller img {
+  margin-top: 30px;
+}
+.Jane-Miller p {
+  margin-top: 10px;
+}
+.aboutus p {
+    margin-top: 20px;
+}
+
+.aboutus h3 {
+    margin-top: 20px;
+}
+
+/* Image */
+.aboutusimg img {
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Button */
+.aboutus-btn {
+    text-align: left;
+}
+
+.aboutus-btn button {
+    border: 2px solid #ffd166;
+    background: #ffd166;
+    padding: 10px 20px;
+    color: #222;
+    border-radius: 5px;
+    text-transform: capitalize;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    transition: 0.4s all ease-in-out;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.aboutus-btn button:hover {
+    background: transparent;
+    color: #ffd166;
+    border: 2px solid #ffd166;
+}
+@media (max-width: 991px) {
+
+    .aboutus-btn {
+        text-align: center;
+    }
+
+    .aboutusimg img {
+        padding: 20px;
+    }
+}
+@media (max-width: 767px) {
+
+    .aboutusimg img {
+        padding: 10px;
+    }
+
+    .aboutus-btn {
+        text-align: center;
+    }
+}
+.QUESTIONS {
+  background-image: url(../image/pexels-david-besh-884788.jpg);
+  min-height: 70vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 50px;
+}
+.QUESTIONS p {
+  margin-top: 30px;
+  color: #f8f9fa;
+  text-transform: capitalize;
+}
+.QUESTIONS button {
+  margin-top: 30px;
+  border: none;
+  background: #4b2e83;
+  border: solid 2px #4b2e83;
+  padding: 10px 20px;
+  color: #ffffff;
+  border-radius: 5px;
+  text-transform: capitalize;
+  transition: 0.4s all ease-in-out;
+  cursor: pointer;
+  font-weight: 600;
+}
+.QUESTIONS button:hover {
+  background-color: transparent;
+  color: #4b2e83;
+  border: solid 2px #4b2e83;
+}
+.QUESTIONS .row {
+  min-height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.site-footer {
+  background-color: #f8f9fa;
+  padding: 60px 0 20px;
+  color: #333;
+}
+
+.footer-logo {
+  width: 100px;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+.footer-text {
+  font-size: 17px;
+  margin: 0;
+  color: #555;
+}
+
+.site-footer h5 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: #555;
+  font-size: 16px;
+  transition: 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #4b2e83;
+}
+
+.contact-info {
+  color: #555;
+  margin-bottom: 8px;
+}
+
+.site-footer hr {
+  margin: 40px 0 20px;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
+
+.copyright {
+  margin: 0;
+  font-size: 14px;
+  color: #777;
+}
